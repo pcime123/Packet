@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="30dp"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/num"
+        android:layout_width="50dp"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:text="1"
+        android:textColor="#303030"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="105dp"
+android:gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textColor="#303030"
+        android:text="00:00:00"
+
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/source"
+        android:layout_width="128dp"
+        android:gravity="center"
+
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textColor="#303030"
+        android:text="192.168.1.15"
+
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/dest"
+        android:layout_width="132dp"
+        android:gravity="center"
+        android:layout_marginStart="8dp"
+        android:layout_height="wrap_content"
+
+        android:layout_gravity="center_vertical"
+        android:textColor="#303030"
+        android:text="192.168.1.15"
+
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/protocol"
+        android:layout_width="84dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+
+        android:layout_gravity="center_vertical"
+        android:textColor="#303030"
+        android:text="UDP"
+
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/length"
+        android:layout_width="72dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:gravity="center"
+
+        android:textColor="#303030"
+        android:text="3000"
+
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/data"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+
+        android:layout_gravity="center_vertical"
+        android:maxLength="32"
+        android:textColor="#303030"
+
+        android:textSize="16sp" />
+
+</LinearLayout>

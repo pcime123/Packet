@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Packet Test</string>
+    <string name="send_every">Send every</string>
+    <string name="interval_s">Interval(s)</string>
+    <string name="auto_send">Auto Send</string>
+    <string name="packet_generator">Packet transmission</string>
+    <string name="ip">IP</string>
+    <string name="port">Port</string>
+    <string name="data">Data</string>
+    <string name="ex_max_32_byte">ex) Max 32 byte</string>
+    <string name="start">Start</string>
+    <string name="clear">Clear</string>
+    <string name="bind">Bind</string>
+    <string name="packet_receive">Packet Receive</string>
+    <string name="host_ip">Host IP</string>
+    <string name="not_host_ip">Please check Host IP</string>
+    <string name="not_host_port">Please check Host Port</string>
+    <string name="not_input_port">Please check Port</string>
+    <string name="not_input_ip">Please check IP</string>
+    <string name="not_input_data">Please check Data</string>
+    <string name="not_normal_ip">IP address is not normal</string>
+    <string name="host_port">Host Port</string>
+    <string name="send">Send</string>
+    <string name="stop">Stop</string>
+    <string name="time">Time</string>
+    <string name="protocol">Protocol</string>
+    <string name="length">Length</string>
+</resources>

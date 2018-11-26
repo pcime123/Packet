@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">패킷 테스트</string>
+    <string name="interval_s">간격(s)</string>
+    <string name="auto_send">자동 전송</string>
+    <string name="packet_generator">패킷 송신</string>
+    <string name="ip">IP</string>
+    <string name="port">포트</string>
+    <string name="data">데이터</string>
+    <string name="ex_max_32_byte">ex) Max 32 byte</string>
+    <string name="start">Start</string>
+    <string name="clear">지우기</string>
+    <string name="bind">가져오기</string>
+    <string name="packet_receive">패킷 수신</string>
+    <string name="host_ip">Host IP</string>
+    <string name="not_host_ip">Host IP를 확인해주세요</string>
+    <string name="not_host_port">Host Port를 확인해주세요</string>
+    <string name="not_input_port">Port를 확인해주세요</string>
+    <string name="not_input_ip">IP를 확인해주세요</string>
+    <string name="not_input_data">Data를 확인해주세요</string>
+    <string name="not_normal_ip">IP 주소가 일반적이지 않습니다</string>
+    <string name="send_every">반복</string>
+    <string name="host_port">Host 포트</string>
+    <string name="send">보내기</string>
+    <string name="stop">중지</string>
+    <string name="time">시간</string>
+    <string name="protocol" translatable="false">프로토콜</string>
+    <string name="length" translatable="false">길이</string>
+</resources>

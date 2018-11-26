@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">パケットテスト</string>
+    <string name="send_every">繰り返し</string>
+    <string name="interval_s">間隔(s)</string>
+    <string name="auto_send">自動伝送</string>
+    <string name="packet_generator">パケット送信</string>
+    <string name="ip">IP</string>
+    <string name="port">ポート</string>
+    <string name="data">データ</string>
+    <string name="ex_max_32_byte">Max32 byte</string>
+    <string name="start">スタート</string>
+    <string name="clear">削除</string>
+    <string name="bind">呼び出す</string>
+    <string name="packet_receive">パケット受信</string>
+    <string name="host_ip">Host IP</string>
+    <string name="not_host_ip">Host IPを確認してください。</string>
+    <string name="not_host_port">Host ポートを確認してください。</string>
+    <string name="not_input_port">ポートを確認してください。</string>
+    <string name="not_input_ip">IPを確認してください。</string>
+    <string name="not_input_data">Dataを確認してください。</string>
+    <string name="not_normal_ip">IPアドレスが一般的ではありません。</string>
+    <string name="host_port">Hostポート</string>
+    <string name="send">送る</string>
+    <string name="stop">中止</string>
+    <string name="time">時間</string>
+    <string name="protocol">プロトコル</string>
+    <string name="length">長さ</string>
+</resources>

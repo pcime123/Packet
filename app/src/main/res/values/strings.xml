@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Packet Test</string>
+    <string name="def_port" translatable="false">8000</string>
+    <string name="not_host_ip">Please check Host IP</string>
+    <string name="not_host_port">Please check Host Port</string>
+    <string name="not_input_port">Please check Port</string>
+    <string name="not_input_ip">Please check IP</string>
+    <string name="not_input_data">Please check Data</string>
+    <string name="not_normal_ip">IP address is not normal</string>
+    <string name="send_every">Send every</string>
+    <string name="interval_s">Interval(s)</string>
+    <string name="ex_1" translatable="false">ex) 1</string>
+    <string name="auto_send">Auto Send</string>
+    <string name="packet_generator">Packet Generator</string>
+    <string name="ip">IP</string>
+    <string name="ex_192_168_0_10" translatable="false">ex) 192.168.0.10</string>
+    <string name="port">Port</string>
+    <string name="stop">Stop</string>
+    <string name="host_port">Host Port</string>
+    <string name="data">Data</string>
+    <string name="ex_max_32_byte">ex) Max 32 byte</string>
+    <string name="start">Start</string>
+    <string name="send">Send</string>
+    <string name="ex_9000" translatable="false">ex) 9000</string>
+    <string name="clear">Clear</string>
+    <string name="bind">Bind</string>
+    <string name="packet_receive">Packet Receive</string>
+    <string name="host_ip">Host IP</string>
+    <string name="no" translatable="false">No.</string>
+    <string name="time">Time</string>
+    <string name="source" translatable="false">Source</string>
+    <string name="destination" translatable="false">Destination</string>
+    <string name="protocol">Protocol</string>
+    <string name="length">Length</string>
+    <string name="address_not_known">Address not known</string>
+
+</resources>
