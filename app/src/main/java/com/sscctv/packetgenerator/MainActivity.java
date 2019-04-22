@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
     private DataOutputStream opt;
     private Timer receiveTimer;
     private Timer sendTimer;
-    private static final String TAG = "Packet Generator";
+    private static final String TAG = "Packet_1903281900";
     private String myIP;
     private InputMethodManager imm;
     private RecyclerView recyclerView;
